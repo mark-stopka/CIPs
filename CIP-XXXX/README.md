@@ -8,7 +8,7 @@ Authors:
     - Philip Lazos <philip.lazos@iohk.io>
 Implementors: N/A
 Discussions:
-    - https://github.com/cardano-foundation/cips/pulls/1
+    - https://github.com/cardano-foundation/CIPs/pull/381
 Created: 2022-11-17
 License: CC-BY-4.0
 ---
